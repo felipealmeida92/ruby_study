@@ -3,5 +3,5 @@ c = 1
 for nome in familia
     puts nome
     puts c
-    c = c + 1
+    c += 1
 end
