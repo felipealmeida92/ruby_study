@@ -6,7 +6,7 @@ loop do
     puts '1- Descobrir a idade de uma pessoa'
     puts '0- Sair'
     print 'Opção: '
-    
+
     option = gets.chomp.to_i
 
     if option == 1 
@@ -17,7 +17,7 @@ loop do
         age = current_year - year_of_birth
         result = "Quem nasceu no ano de #{year_of_birth}, tem #{age} anos em #{current_year}"
     elsif option == 0
-        break
+        break if option == 0
     else 
         result = 'Opção inválida'
     end 
