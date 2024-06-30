@@ -5,3 +5,5 @@ name = 'Felipe'
 names.each do |name|
     puts "Nome: #{name}"
 end
+
+puts name
