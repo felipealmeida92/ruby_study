@@ -5,4 +5,4 @@ end
 first_name = 'Felipe'
 last_name = 'Almeida'
 
-talk(first_name, last_name}
+talk(first_name, last_name)
