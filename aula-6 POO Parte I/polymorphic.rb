@@ -5,6 +5,10 @@ class Instrumento
 end
 
 class Teclado < Instrumento
+    def escrever
+        puts "tecladoooo"
+        super
+    end
 end
 
 class Lapis < Instrumento
