@@ -23,6 +23,9 @@ teclado = Teclado.new
 lapis = Lapis.new
 caneta = Caneta.new
 
+puts "lapis:"
 lapis.escrever
+puts "caneta:"
 caneta.escrever
+puts "teclado:"
 teclado.escrever
