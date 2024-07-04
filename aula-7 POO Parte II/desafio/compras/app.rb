@@ -1,0 +1,8 @@
+require_relative 'produto'
+require_relative 'mercado'
+
+produto = Produto.new("arroz", 5.00)
+
+mercado = Mercado.new(produto)
+
+mercado.comprar
