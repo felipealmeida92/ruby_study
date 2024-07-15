@@ -1,6 +1,6 @@
 puts '--Lista de Compras--'
 
-file = File.open('list.txt')
+file = File.open('shopping-list.txt')
 
 file.each do |line|
   puts line
