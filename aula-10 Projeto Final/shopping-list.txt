@@ -1,3 +1,6 @@
 morango
 brocolis
-palmito
+palmito 
+arroz
+feijão
+azeite de oliva
