@@ -1,7 +1,6 @@
-require_relative '../../spec_helper'
-require_relative '../../lib/hero'
+require_relative '../hero'
 
-describe Hero do
+RSpec.describe '#hero' do
   it 'has a sword' do
     hero = Hero.new
     expect(hero.weapon).to eq('sword')
