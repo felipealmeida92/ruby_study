@@ -19,7 +19,7 @@ Meu progresso é gerenciado por um project referente a este curso e cada issue r
 - Ruby Avançado II - Aula 9
 - Projeto Final - Aula 10
 
-Para mais informações detalhadas, por favor conferir na [documentação](./ruby_language/docs/DOCUMENTATION.md).
+Para mais informações detalhadas, por favor conferir na [documentação](./ruby_language/docs).
 
 ## Getting Started
 Para começar, clone este repositório e siga as instruções na documentação.
