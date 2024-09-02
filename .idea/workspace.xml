@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a6dc23da-227c-4189-ae36-1f402f7eec05" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/teste-rspec/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/teste-01/.rspec" beforeDir="false" afterPath="$PROJECT_DIR$/teste-rspec/teste-01/.rspec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/teste-01/hero.rb" beforeDir="false" afterPath="$PROJECT_DIR$/teste-rspec/teste-01/hero.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/teste-01/spec/hero_spec.rb" beforeDir="false" afterPath="$PROJECT_DIR$/teste-rspec/teste-01/spec/hero_spec.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/teste-01/spec/spec_helper.rb" beforeDir="false" afterPath="$PROJECT_DIR$/teste-rspec/teste-01/spec/spec_helper.rb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2lUWYupBvbLKJjFUDBDPhoQTxzu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/felipe/Documentos/estudos/ruby_study",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ruby_language/docs" />
+      <recent name="$PROJECT_DIR$/ruby_language" />
+      <recent name="$PROJECT_DIR$/lib" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-RM-242.21829.150" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpringUtil" SPRING_PRE_LOADER_OPTION="true" RAKE_SPRING_PRE_LOADER_OPTION="true" RAILS_SPRING_PRE_LOADER_OPTION="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a6dc23da-227c-4189-ae36-1f402f7eec05" name="Changes" comment="" />
+      <created>1725235185550</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1725235185550</updated>
+      <workItem from="1725235186619" duration="3158000" />
+      <workItem from="1725304115865" duration="659000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
